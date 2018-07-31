@@ -1,0 +1,56 @@
+p.intro{
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+
+.header {
+  width: 100%;
+  float: center;
+  background-color: #ffc1cc;
+  font-family: fantasy;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.sidebar {
+  width: 33%;
+  float: right;
+  background-color: pink;
+  font-family: fantasy;
+  padding: 20px;
+  margin-bottom: 10px;
+
+}
+
+.main {
+  width: 60%;
+  float: left;
+  background-color: purple;
+  font-family: fantasy;
+  padding: 20px;
+}
+
+.low-sidebar {
+  width: 33%;
+  float: right;
+  background-color: magenta;
+  font-family: fantasy;
+  padding: 20px;
+}
+
+.special {
+  float:left;
+  width: 500px;
+
+
+}
